@@ -1,7 +1,7 @@
 EDS_COVID19
 ==============================
 
-Project to get into insights of COVID19 information for countries
+Project to track the COVID details and get into insights of COVID19 information for countries
 
 Project Organization
 ------------
